@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on web apps that are not too complicated, also more oriented in ui web to front end design.
 - 📫  You can choose to contact me between any possible option here, but i'd respond faster in SNS medias, instagram: @beisshabani e-mail: beisshabani234@gmail.com or beisshabani@naver.com ! 
 
-I have started my first coding in 2019, i always have been interested in tech but i have been busy with other stuff now it's just the right time to learn, and i am expoliting it!
+I always have been interested into Web Design and electronic devices but i finally quit my overwhelming job to pursue this career.
+
 
 <!---
 beisshabani/beisshabani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
